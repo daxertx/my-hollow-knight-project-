@@ -11,6 +11,16 @@ namespace project
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            // info button
+            if (Session["corrent_page"].ToString() == "Info")
+            {
+                info.Style.Add("display", "none");
+            }
+            else
+            {
+                info.Style.Add("display", "block");
+            }
+            //
             //RegisterandLogin button
             if (Session["rank"].ToString() == "0" && Session["corrent_page"].ToString() != "RegisterandLogin")
             {
@@ -72,8 +82,13 @@ namespace project
 
             //if background color is red
             if (Convert.ToString(Session["corrent_page"]) == "Grimm" || Convert.ToString(Session["corrent_page"]) == "Nightmare king grimm")
-            { div1.Style.Add("color", "white"); }
-            else { div1.Style.Add("color", "red"); }
+            {
+                div1.Style.Add("color", "white"); 
+            }
+            else 
+            {
+                div1.Style.Add("color", "red"); 
+            }
 
             //button for admin only
             if (Session["rank"].ToString() == "2" && Session["corrent_page"].ToString() != "Admin")
@@ -88,7 +103,7 @@ namespace project
         public bool hacker(string location,string rank)
         {
             //anti changing url not working
-            if (int.Parse(rank) == 0 && location!= "RegisterandLogin" && location!= "Menu") 
+            if (int.Parse(rank) == 0 && location!= "RegisterandLogin" && location!= "Menu" && location != "Info") 
             {
                 return true;
                 

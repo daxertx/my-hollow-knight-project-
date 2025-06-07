@@ -43,7 +43,7 @@
 
 <h3>grimm stunned</h3>
 <br>
-<img src="pictures_and_videos/grimstun.png" />
+<img src="pictures_and_videos/Grimm/grimstun.png" />
 <p>this is not actually a attack grimm become a small bat for a short time and <bold>doesn't dmg you at all</bold> I recommend healing once or twice</p>
 
 <h2 style="text-align:center;color:gold;font-weight:bold">now you understand Grimm</h2>

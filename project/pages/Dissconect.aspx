@@ -1,4 +1,4 @@
-﻿<%@ Page Title="disconnect" Language="C#" MasterPageFile="~/master.Master" AutoEventWireup="true" CodeBehind="Dissconect.aspx.cs" Inherits="project.pages.Dissconect" %>
+﻿<%@ Page Title="Disconnect" Language="C#" MasterPageFile="~/master.Master" AutoEventWireup="true" CodeBehind="Dissconect.aspx.cs" Inherits="project.pages.Dissconect" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     
 </asp:Content>

@@ -11,7 +11,7 @@ namespace project.pages
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Session["color"] = "";
+            Session["color"] = "none";
             Session["corrent_page"] = "dissconnect";
             if (IsPostBack)
             {

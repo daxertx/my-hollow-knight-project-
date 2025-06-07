@@ -14,14 +14,11 @@ namespace project.pages
         {
             Session["color"] = "orange";
             Session["corrent_page"] = "Admin";
-            try
-            {
                 string table = Helper.print();
                 
                 tableinfo.InnerHtml = table.Replace("00:00:00","");
                 tableinfo.Style.Add("color", "red");
-            }
-            catch { }
+
         }
     }
 }

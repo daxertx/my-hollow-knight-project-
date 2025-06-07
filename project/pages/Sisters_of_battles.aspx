@@ -1,4 +1,4 @@
-﻿<%@ Page Title="False knight" Language="C#" MasterPageFile="~/master.Master" AutoEventWireup="true" CodeBehind="Sisters_of_battles.aspx.cs" Inherits="project.pages.boss_list.sisters_of_battles" %>
+﻿<%@ Page Title="Sisters of battles" Language="C#" MasterPageFile="~/master.Master" AutoEventWireup="true" CodeBehind="Sisters_of_battles.aspx.cs" Inherits="project.pages.boss_list.sisters_of_battles" %>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
    <link href="../css/boss_list.css" rel="stylesheet" />
     <div style="background-color:lawngreen">

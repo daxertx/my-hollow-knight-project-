@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/master.Master" AutoEventWireup="true" CodeBehind="admin_page.aspx.cs" Inherits="project.pages.admin_page" %>
+﻿<%@ Page Title="Admin page" Language="C#" MasterPageFile="~/master.Master" AutoEventWireup="true" CodeBehind="admin_page.aspx.cs" Inherits="project.pages.admin_page" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <link href="../css/boss_list.css" rel="stylesheet" />

@@ -73,6 +73,7 @@
     </Content>
     <Content Include="css\boss_list.css" />
     <Content Include="css\Bug_report.css" />
+    <Content Include="css\info.css" />
     <Content Include="css\Main_pages.css" />
     <Content Include="Global.asax" />
     <Content Include="pages\admin_page.aspx" />
@@ -81,6 +82,7 @@
     <Content Include="pages\Dissconect.aspx" />
     <Content Include="pages\False_knight.aspx" />
     <Content Include="pages\Grimm.aspx" />
+    <Content Include="pages\Info.aspx" />
     <Content Include="pages\Menu.aspx" />
     <Content Include="pages\Nightmare_king_grimm.aspx" />
     <Content Include="pages\pictures_and_videos\Brooding_mawlek\Brooding_mawlek.png" />
@@ -94,6 +96,8 @@
     <Content Include="pages\pictures_and_videos\False_knight\Rage.png" />
     <Content Include="pages\pictures_and_videos\False_knight\Slam.png" />
     <Content Include="pages\pictures_and_videos\False_knight\Stunned.png" />
+    <Content Include="pages\pictures_and_videos\overall_things\banner-3.png" />
+    <Content Include="pages\pictures_and_videos\overall_things\fan_art.png" />
     <Content Include="pages\pictures_and_videos\Grimm\fire_bats_grimm.png" />
     <Content Include="pages\pictures_and_videos\Grimm\Grimm.png" />
     <Content Include="pages\pictures_and_videos\Grimm\grimstun.png" />
@@ -113,6 +117,8 @@
     <Content Include="pages\pictures_and_videos\Nightmare_king_grimm\Fire_pillar.png" />
     <Content Include="pages\pictures_and_videos\Nightmare_king_grimm\Nightmare_king_grimm.mp4" />
     <Content Include="pages\pictures_and_videos\Nightmare_king_grimm\Pufferfish.png" />
+    <Content Include="pages\pictures_and_videos\overall_things\hallownest_map.png" />
+    <Content Include="pages\pictures_and_videos\overall_things\Team_cherry.png" />
     <Content Include="pages\pictures_and_videos\sisters_of_battles\Mantis_Lords.png" />
     <Content Include="pages\pictures_and_videos\sisters_of_battles\Sisters_of_Battle.png" />
     <Content Include="pages\pictures_and_videos\sisters_of_battles\Sisters_of_Battle_shoot.png" />
@@ -173,6 +179,13 @@
     </Compile>
     <Compile Include="pages\Grimm.aspx.designer.cs">
       <DependentUpon>Grimm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\Info.aspx.cs">
+      <DependentUpon>Info.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\Info.aspx.designer.cs">
+      <DependentUpon>Info.aspx</DependentUpon>
     </Compile>
     <Compile Include="pages\Menu.aspx.cs">
       <DependentUpon>Menu.aspx</DependentUpon>

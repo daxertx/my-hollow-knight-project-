@@ -14,7 +14,7 @@
             <li id="RegisterandLogin" runat="server"><a class="button" href="RegisterandLogin.aspx">Register/Login</a></li>
             <li id="dissconnect" runat="server"><a class="button" href="Dissconect.aspx">Dissconnect</a></li>
             <li id="menu" runat="server"><a class="button" href="Menu.aspx">Menu</a></li>
-        
+            <li id="info" runat="server"><a class="button" href="Info.aspx">Info</a></li>
         </ul>
             <div>
                 <asp:ContentPlaceHolder ID="head" runat="server">
