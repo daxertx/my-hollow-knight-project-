@@ -7,7 +7,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <h >all the database table:</h>
-
-    <h2 id="tableinfo" runat="server"></h2>
-      
+    <div class="table-container">
+        <h2 id="tableinfo" runat="server"></h2>
+    </div>
 </asp:Content>

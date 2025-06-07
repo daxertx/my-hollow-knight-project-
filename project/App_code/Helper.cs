@@ -97,7 +97,7 @@ public static class Helper
     // the Method Build HTML user Table with checkBoxes using the users in the DataTable dt.
     {
 
-        string str = "<table class='usersTable' align='center'>";
+        string str = "<table align='center'>";
         str += "<tr>";
         str += "<th> </th>";
         foreach (DataColumn column in dt.Columns)

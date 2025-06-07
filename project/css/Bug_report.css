@@ -71,28 +71,75 @@ body, html {
     height: 100%;
 }
 
-th {
-    font-size: 60px;
-    font-weight: bold;
-    color: red;
+/* Animated Glowing Border Container */
+.table-container {
+    position: relative;
+    padding: 10px;
+    background: linear-gradient(135deg, #00c6ff, #0072ff, #00c6ff);
+    border-radius: 22px;
+    background-size: 300% 300%;
+    animation: borderGlow 6s linear infinite;
+    box-shadow: 0 0 25px rgba(0, 198, 255, 0.5);
 }
-th {
-    color: red;
-    font-weight: bold;
-    font-weight: 30;
-}
-table, td {
-    border: black 8px solid;
-    border-collapse: collapse;
-    
-}
-td{
-    color:white;
-    font-weight:20;
-}
+
+/* Fancy Glass Table */
 table {
     width: 100%;
+    border-collapse: collapse;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(14px);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.2);
+    color: #f0f0f0;
 }
+
+/* Header Row */
+tr:first-child {
+    background: linear-gradient(90deg, #00c6ff, #0072ff);
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.6);
+}
+
+/* Table Cells */
+th, td {
+    padding: 18px 24px;
+    text-align: left;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    font-size: 16px;
+}
+
+/* Even Row Striping */
+tr:nth-child(even):not(:first-child) {
+    background-color: rgba(255, 255, 255, 0.03);
+}
+
+/* Hover Effect */
+tr:not(:first-child):hover {
+    background-color: rgba(0, 123, 255, 0.12);
+    transition: background 0.3s ease;
+}
+
+/* Border Glow Animation */
+@keyframes borderGlow {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
 h2 {
     font-size: 40px;
 }
