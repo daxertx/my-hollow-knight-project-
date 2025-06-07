@@ -1,0 +1,256 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>project</RootNamespace>
+    <AssemblyName>project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\Database1.mdf" />
+    <Content Include="App_Data\Database1_log.ldf">
+      <DependentUpon>Database1.mdf</DependentUpon>
+    </Content>
+    <Content Include="css\boss_list.css" />
+    <Content Include="css\Bug_report.css" />
+    <Content Include="css\Main_pages.css" />
+    <Content Include="Global.asax" />
+    <Content Include="pages\admin_page.aspx" />
+    <Content Include="pages\Broken_vessel.aspx" />
+    <Content Include="pages\Brooding_mawlek.aspx" />
+    <Content Include="pages\Dissconect.aspx" />
+    <Content Include="pages\False_knight.aspx" />
+    <Content Include="pages\Grimm.aspx" />
+    <Content Include="pages\Menu.aspx" />
+    <Content Include="pages\Nightmare_king_grimm.aspx" />
+    <Content Include="pages\pictures_and_videos\Brooding_mawlek\Brooding_mawlek.png" />
+    <Content Include="pages\pictures_and_videos\Brooding_mawlek\Brooding_mawlek_leap.png" />
+    <Content Include="pages\pictures_and_videos\Brooding_mawlek\Brooding_mawlek_location.jpg" />
+    <Content Include="pages\pictures_and_videos\Brooding_mawlek\Brooding_mawlek_spit.png" />
+    <Content Include="pages\pictures_and_videos\Brooding_mawlek\Brooding_mawlek_vomit.png" />
+    <Content Include="pages\pictures_and_videos\False_knight\False_knight.png" />
+    <Content Include="pages\pictures_and_videos\False_knight\False_knight_location.png" />
+    <Content Include="pages\pictures_and_videos\False_knight\Leap.png" />
+    <Content Include="pages\pictures_and_videos\False_knight\Rage.png" />
+    <Content Include="pages\pictures_and_videos\False_knight\Slam.png" />
+    <Content Include="pages\pictures_and_videos\False_knight\Stunned.png" />
+    <Content Include="pages\pictures_and_videos\Grimm\fire_bats_grimm.png" />
+    <Content Include="pages\pictures_and_videos\Grimm\Grimm.png" />
+    <Content Include="pages\pictures_and_videos\Grimm\grimstun.png" />
+    <Content Include="pages\pictures_and_videos\Grimm\grim_dash.png" />
+    <Content Include="pages\pictures_and_videos\Grimm\pillar.png" />
+    <Content Include="pages\pictures_and_videos\Grimm\pufferfish_attack.jpg" />
+    <Content Include="pages\pictures_and_videos\hollow_knight.png" />
+    <Content Include="pages\pictures_and_videos\Broken_vessel\Balloon.png" />
+    <Content Include="pages\pictures_and_videos\Broken_vessel\Broken_vessel.png" />
+    <Content Include="pages\pictures_and_videos\Broken_vessel\Broken_vessel_location.png" />
+    <Content Include="pages\pictures_and_videos\Broken_vessel\Cascade_attack.png" />
+    <Content Include="pages\pictures_and_videos\Broken_vessel\Jump_down.png" />
+    <Content Include="pages\pictures_and_videos\Broken_vessel\Slash_attack.png" />
+    <Content Include="pages\pictures_and_videos\Nightmare_king_grimm\Boss_location.png" />
+    <Content Include="pages\pictures_and_videos\Nightmare_king_grimm\Cloak Spikes.jpg" />
+    <Content Include="pages\pictures_and_videos\Nightmare_king_grimm\Fire_bats.png" />
+    <Content Include="pages\pictures_and_videos\Nightmare_king_grimm\Fire_pillar.png" />
+    <Content Include="pages\pictures_and_videos\Nightmare_king_grimm\Nightmare_king_grimm.mp4" />
+    <Content Include="pages\pictures_and_videos\Nightmare_king_grimm\Pufferfish.png" />
+    <Content Include="pages\pictures_and_videos\sisters_of_battles\Mantis_Lords.png" />
+    <Content Include="pages\pictures_and_videos\sisters_of_battles\Sisters_of_Battle.png" />
+    <Content Include="pages\pictures_and_videos\sisters_of_battles\Sisters_of_Battle_shoot.png" />
+    <Content Include="pages\RegisterandLogin.aspx" />
+    <Content Include="pages\Sisters_of_battles.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_code\Helper.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="master.Master.cs">
+      <DependentUpon>master.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="master.Master.designer.cs">
+      <DependentUpon>master.Master</DependentUpon>
+    </Compile>
+    <Compile Include="pages\admin_page.aspx.cs">
+      <DependentUpon>admin_page.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\admin_page.aspx.designer.cs">
+      <DependentUpon>admin_page.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\Broken_vessel.aspx.cs">
+      <DependentUpon>Broken_vessel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\Broken_vessel.aspx.designer.cs">
+      <DependentUpon>Broken_vessel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\Brooding_mawlek.aspx.cs">
+      <DependentUpon>Brooding_mawlek.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\Brooding_mawlek.aspx.designer.cs">
+      <DependentUpon>Brooding_mawlek.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\Dissconect.aspx.cs">
+      <DependentUpon>Dissconect.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\Dissconect.aspx.designer.cs">
+      <DependentUpon>Dissconect.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\False_knight.aspx.cs">
+      <DependentUpon>False_knight.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\False_knight.aspx.designer.cs">
+      <DependentUpon>False_knight.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\Grimm.aspx.cs">
+      <DependentUpon>Grimm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\Grimm.aspx.designer.cs">
+      <DependentUpon>Grimm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\Menu.aspx.cs">
+      <DependentUpon>Menu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\Menu.aspx.designer.cs">
+      <DependentUpon>Menu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\Nightmare_king_grimm.aspx.cs">
+      <DependentUpon>Nightmare_king_grimm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\Nightmare_king_grimm.aspx.designer.cs">
+      <DependentUpon>Nightmare_king_grimm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="pages\RegisterandLogin.aspx.cs">
+      <DependentUpon>RegisterandLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\RegisterandLogin.aspx.designer.cs">
+      <DependentUpon>RegisterandLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\Sisters_of_battles.aspx.cs">
+      <DependentUpon>Sisters_of_battles.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\Sisters_of_battles.aspx.designer.cs">
+      <DependentUpon>Sisters_of_battles.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="master.Master" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51000</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:51000/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

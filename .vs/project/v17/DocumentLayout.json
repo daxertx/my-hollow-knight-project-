@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\pages\\registerandlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\pages\\registerandlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|d:\\project\\project\\pages\\registerandlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\pages\\registerandlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\master.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\master.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\pages\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\pages\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\pages\\admin_page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\pages\\admin_page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROJECT_PROJECT_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.info.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\css\\main_pages.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\css\\main_pages.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\css\\bug_report.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\css\\bug_report.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\css\\boss_list.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\css\\boss_list.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\pages\\admin_page.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\pages\\admin_page.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\pages\\sisters_of_battles.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\pages\\sisters_of_battles.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\pages\\registerandlogin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\pages\\registerandlogin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\app_code\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\app_code\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "boss_list.css",
+              "DocumentMoniker": "D:\\project\\project\\css\\boss_list.css",
+              "RelativeDocumentMoniker": "project\\css\\boss_list.css",
+              "ToolTip": "D:\\project\\project\\css\\boss_list.css",
+              "RelativeToolTip": "project\\css\\boss_list.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-07T12:08:32.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "admin_page.aspx.cs",
+              "DocumentMoniker": "D:\\project\\project\\pages\\admin_page.aspx.cs",
+              "RelativeDocumentMoniker": "project\\pages\\admin_page.aspx.cs",
+              "ToolTip": "D:\\project\\project\\pages\\admin_page.aspx.cs",
+              "RelativeToolTip": "project\\pages\\admin_page.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:01:04.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bug_report.css",
+              "DocumentMoniker": "D:\\project\\project\\css\\Bug_report.css",
+              "RelativeDocumentMoniker": "project\\css\\Bug_report.css",
+              "ToolTip": "D:\\project\\project\\css\\Bug_report.css",
+              "RelativeToolTip": "project\\css\\Bug_report.css",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAGAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-07T12:01:52.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admin_page.aspx",
+              "DocumentMoniker": "D:\\project\\project\\pages\\admin_page.aspx",
+              "RelativeDocumentMoniker": "project\\pages\\admin_page.aspx",
+              "ToolTip": "D:\\project\\project\\pages\\admin_page.aspx",
+              "RelativeToolTip": "project\\pages\\admin_page.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-07T12:01:43.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.info.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROJECT_PROJECT_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.info.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROJECT_PROJECT_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.info.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-07T11:55:50.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "master.Master.cs",
+              "DocumentMoniker": "D:\\project\\project\\master.Master.cs",
+              "RelativeDocumentMoniker": "project\\master.Master.cs",
+              "ToolTip": "D:\\project\\project\\master.Master.cs",
+              "RelativeToolTip": "project\\master.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T10:55:15.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterandLogin.aspx.designer.cs",
+              "DocumentMoniker": "D:\\project\\project\\pages\\RegisterandLogin.aspx.designer.cs",
+              "RelativeDocumentMoniker": "project\\pages\\RegisterandLogin.aspx.designer.cs",
+              "ToolTip": "D:\\project\\project\\pages\\RegisterandLogin.aspx.designer.cs",
+              "RelativeToolTip": "project\\pages\\RegisterandLogin.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T10:53:26.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\project\\project\\App_code\\Helper.cs",
+              "RelativeDocumentMoniker": "project\\App_code\\Helper.cs",
+              "ToolTip": "D:\\project\\project\\App_code\\Helper.cs",
+              "RelativeToolTip": "project\\App_code\\Helper.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAqwMMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:09:44.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterandLogin.aspx.cs",
+              "DocumentMoniker": "D:\\project\\project\\pages\\RegisterandLogin.aspx.cs",
+              "RelativeDocumentMoniker": "project\\pages\\RegisterandLogin.aspx.cs",
+              "ToolTip": "D:\\project\\project\\pages\\RegisterandLogin.aspx.cs",
+              "RelativeToolTip": "project\\pages\\RegisterandLogin.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:33:23.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterandLogin.aspx",
+              "DocumentMoniker": "D:\\project\\project\\pages\\RegisterandLogin.aspx",
+              "RelativeDocumentMoniker": "project\\pages\\RegisterandLogin.aspx",
+              "ToolTip": "D:\\project\\project\\pages\\RegisterandLogin.aspx",
+              "RelativeToolTip": "project\\pages\\RegisterandLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-04T08:33:22.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.aspx",
+              "DocumentMoniker": "D:\\project\\project\\pages\\Menu.aspx",
+              "RelativeDocumentMoniker": "project\\pages\\Menu.aspx",
+              "ToolTip": "D:\\project\\project\\pages\\Menu.aspx",
+              "RelativeToolTip": "project\\pages\\Menu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-04T08:33:17.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main_pages.css",
+              "DocumentMoniker": "D:\\project\\project\\css\\Main_pages.css",
+              "RelativeDocumentMoniker": "project\\css\\Main_pages.css",
+              "ToolTip": "D:\\project\\project\\css\\Main_pages.css",
+              "RelativeToolTip": "project\\css\\Main_pages.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-07T12:06:05.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\project\\project\\Global.asax.cs",
+              "RelativeDocumentMoniker": "project\\Global.asax.cs",
+              "ToolTip": "D:\\project\\project\\Global.asax.cs",
+              "RelativeToolTip": "project\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T10:55:21.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "master.Master",
+              "DocumentMoniker": "D:\\project\\project\\master.Master",
+              "RelativeDocumentMoniker": "project\\master.Master",
+              "ToolTip": "D:\\project\\project\\master.Master",
+              "RelativeToolTip": "project\\master.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-07T11:06:07.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sisters_of_battles.aspx.cs",
+              "DocumentMoniker": "D:\\project\\project\\pages\\Sisters_of_battles.aspx.cs",
+              "RelativeDocumentMoniker": "project\\pages\\Sisters_of_battles.aspx.cs",
+              "ToolTip": "D:\\project\\project\\pages\\Sisters_of_battles.aspx.cs",
+              "RelativeToolTip": "project\\pages\\Sisters_of_battles.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:42:46.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

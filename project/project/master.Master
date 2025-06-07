@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.master.cs" Inherits="project.master" %>
+
+<!DOCTYPE html>
+<link href="Main_pages.css" rel="stylesheet" />
+
+<html>
+<head runat="server">
+    <title></title>
+
+        <div id="div1" runat="server"></div>
+
+        <ul id="b" runat="server">
+            <li id="only_admin" runat="server"><a class="button" href="admin_page.aspx">Admin page</a></li>
+            <li id="RegisterandLogin" runat="server"><a class="button" href="RegisterandLogin.aspx">Register/Login</a></li>
+            <li id="dissconnect" runat="server"><a class="button" href="Dissconect.aspx">Dissconnect</a></li>
+            <li id="menu" runat="server"><a class="button" href="Menu.aspx">Menu</a></li>
+        
+        </ul>
+            <div>
+                <asp:ContentPlaceHolder ID="head" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </div>
+</head>
+<body>
+    
+    
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+            </asp:ContentPlaceHolder>
+        </div>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server"></asp:ContentPlaceHolder>
+
+</body>
+</html>
