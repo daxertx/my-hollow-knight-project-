@@ -4,12 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <link href="../css/info.css" rel="stylesheet" />
-    <div class="container header-content">
-        <div class="logo">
-            <img src="pictures_and_videos/overall_things/Team_cherry.png" alt="Team Cherry Logo">
-            <h1>HOLLOW KNIGHT</h1>
-        </div>
-    </div>
+
     <h2>Information about Hollow Knight</h2>
 
      <section class="banner">

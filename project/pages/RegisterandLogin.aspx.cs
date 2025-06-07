@@ -24,7 +24,7 @@ namespace project.pages
                         string confirm_password = Request.Form["confirm_password"];
                         string name = Request.Form["name"];
                         string family_name = Request.Form["family_name"];
-                        int phone = Convert.ToInt32(Request.Form["phone"]);
+                        string phone = Request.Form["phone"];
                         string email = Request.Form["email"];
                         string birthday = Request.Form["Birthday"];
                         string gender = Request.Form["gender"];

@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\pages\\registerandlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|d:\\project\\project\\pages\\registerandlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\pages\\registerandlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\pages\\admin_page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\pages\\admin_page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\app_code\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\app_code\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\pages\\registerandlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\pages\\registerandlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\pages\\admin_page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\pages\\admin_page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\pages\\info.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\pages\\info.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\css\\bug_report.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\css\\main_pages.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\css\\main_pages.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\app_code\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\app_code\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|d:\\project\\project\\pages\\info.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|solutionrelative:project\\pages\\info.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0707A1DD-F650-4319-B5FE-A1FE4EE924C1}|project\\project.csproj|D:\\project\\project\\pages\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -153,37 +153,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Info.aspx",
-              "DocumentMoniker": "D:\\project\\project\\pages\\Info.aspx",
-              "RelativeDocumentMoniker": "project\\pages\\Info.aspx",
-              "ToolTip": "D:\\project\\project\\pages\\Info.aspx",
-              "RelativeToolTip": "project\\pages\\Info.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-07T17:12:59.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Main_pages.css",
-              "DocumentMoniker": "D:\\project\\project\\css\\Main_pages.css",
-              "RelativeDocumentMoniker": "project\\css\\Main_pages.css",
-              "ToolTip": "D:\\project\\project\\css\\Main_pages.css",
-              "RelativeToolTip": "project\\css\\Main_pages.css",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAOsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-07T12:06:05.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "admin_page.aspx",
               "DocumentMoniker": "D:\\project\\project\\pages\\admin_page.aspx",
               "RelativeDocumentMoniker": "project\\pages\\admin_page.aspx",
@@ -217,7 +191,8 @@
               "RelativeToolTip": "project\\pages\\Menu.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T17:04:27.526Z"
+              "WhenOpened": "2025-06-07T17:04:27.526Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -229,7 +204,8 @@
               "RelativeToolTip": "project\\Global.asax.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T10:55:21.882Z"
+              "WhenOpened": "2025-06-07T10:55:21.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -241,24 +217,25 @@
               "RelativeToolTip": "project\\master.Master.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T10:55:15.882Z"
+              "WhenOpened": "2025-06-07T10:55:15.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Helper.cs",
               "DocumentMoniker": "D:\\project\\project\\App_code\\Helper.cs",
               "RelativeDocumentMoniker": "project\\App_code\\Helper.cs",
               "ToolTip": "D:\\project\\project\\App_code\\Helper.cs",
               "RelativeToolTip": "project\\App_code\\Helper.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAIwGMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAuwMcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T19:09:44.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Bug_report.css",
               "DocumentMoniker": "D:\\project\\project\\css\\Bug_report.css",
               "RelativeDocumentMoniker": "project\\css\\Bug_report.css",
@@ -278,17 +255,18 @@
               "ToolTip": "D:\\project\\project\\pages\\pictures_and_videos\\overall_things\\hallownest_map.png",
               "RelativeToolTip": "project\\pages\\pictures_and_videos\\overall_things\\hallownest_map.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-07T17:25:35.549Z"
+              "WhenOpened": "2025-06-07T17:25:35.549Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RegisterandLogin.aspx.cs",
               "DocumentMoniker": "D:\\project\\project\\pages\\RegisterandLogin.aspx.cs",
               "RelativeDocumentMoniker": "project\\pages\\RegisterandLogin.aspx.cs",
               "ToolTip": "D:\\project\\project\\pages\\RegisterandLogin.aspx.cs",
               "RelativeToolTip": "project\\pages\\RegisterandLogin.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T08:33:23.449Z",
               "EditorCaption": ""
@@ -308,6 +286,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Info.aspx",
+              "DocumentMoniker": "D:\\project\\project\\pages\\Info.aspx",
+              "RelativeDocumentMoniker": "project\\pages\\Info.aspx",
+              "ToolTip": "D:\\project\\project\\pages\\Info.aspx",
+              "RelativeToolTip": "project\\pages\\Info.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-07T17:12:59.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main_pages.css",
+              "DocumentMoniker": "D:\\project\\project\\css\\Main_pages.css",
+              "RelativeDocumentMoniker": "project\\css\\Main_pages.css",
+              "ToolTip": "D:\\project\\project\\css\\Main_pages.css",
+              "RelativeToolTip": "project\\css\\Main_pages.css",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAOsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-07T12:06:05.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
               "Title": "boss_list.css",
               "DocumentMoniker": "D:\\project\\project\\css\\boss_list.css",
@@ -316,7 +320,8 @@
               "RelativeToolTip": "project\\css\\boss_list.css",
               "ViewState": "AgIAAGAAAAAAAAAAAAAuwG4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-07T12:08:32.073Z"
+              "WhenOpened": "2025-06-07T12:08:32.073Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -326,9 +331,9 @@
               "RelativeDocumentMoniker": "project\\pages\\Menu.aspx",
               "ToolTip": "D:\\project\\project\\pages\\Menu.aspx",
               "RelativeToolTip": "project\\pages\\Menu.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-04T08:33:17.083Z"
+              "WhenOpened": "2025-06-04T08:33:17.083Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -338,9 +343,9 @@
               "RelativeDocumentMoniker": "project\\pages\\Sisters_of_battles.aspx",
               "ToolTip": "D:\\project\\project\\pages\\Sisters_of_battles.aspx",
               "RelativeToolTip": "project\\pages\\Sisters_of_battles.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-07T17:14:08.316Z"
+              "WhenOpened": "2025-06-07T17:14:08.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -352,7 +357,8 @@
               "RelativeToolTip": "project\\css\\info.css",
               "ViewState": "AgIAAM8AAAAAAAAAAAAAAPMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-07T17:33:23.204Z"
+              "WhenOpened": "2025-06-07T17:33:23.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -364,7 +370,8 @@
               "RelativeToolTip": "project\\pages\\Info.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T18:00:08.296Z"
+              "WhenOpened": "2025-06-07T18:00:08.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -375,7 +382,8 @@
               "ToolTip": "D:\\project\\project\\pages\\pictures_and_videos\\overall_things\\fan_art.png",
               "RelativeToolTip": "project\\pages\\pictures_and_videos\\overall_things\\fan_art.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-07T17:25:32.979Z"
+              "WhenOpened": "2025-06-07T17:25:32.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -386,7 +394,8 @@
               "ToolTip": "D:\\project\\project\\pages\\pictures_and_videos\\overall_things\\banner-3.png",
               "RelativeToolTip": "project\\pages\\pictures_and_videos\\overall_things\\banner-3.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-07T17:25:29.944Z"
+              "WhenOpened": "2025-06-07T17:25:29.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -396,9 +405,9 @@
               "RelativeDocumentMoniker": "project\\pages\\Dissconect.aspx",
               "ToolTip": "D:\\project\\project\\pages\\Dissconect.aspx",
               "RelativeToolTip": "project\\pages\\Dissconect.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-07T17:14:34.453Z"
+              "WhenOpened": "2025-06-07T17:14:34.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -408,9 +417,9 @@
               "RelativeDocumentMoniker": "project\\pages\\False_knight.aspx",
               "ToolTip": "D:\\project\\project\\pages\\False_knight.aspx",
               "RelativeToolTip": "project\\pages\\False_knight.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-07T17:14:33.001Z"
+              "WhenOpened": "2025-06-07T17:14:33.001Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -420,9 +429,9 @@
               "RelativeDocumentMoniker": "project\\pages\\Broken_vessel.aspx",
               "ToolTip": "D:\\project\\project\\pages\\Broken_vessel.aspx",
               "RelativeToolTip": "project\\pages\\Broken_vessel.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-07T17:14:50.094Z"
+              "WhenOpened": "2025-06-07T17:14:50.094Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -432,9 +441,9 @@
               "RelativeDocumentMoniker": "project\\pages\\Brooding_mawlek.aspx",
               "ToolTip": "D:\\project\\project\\pages\\Brooding_mawlek.aspx",
               "RelativeToolTip": "project\\pages\\Brooding_mawlek.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-07T17:14:36.632Z"
+              "WhenOpened": "2025-06-07T17:14:36.632Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -444,9 +453,9 @@
               "RelativeDocumentMoniker": "project\\pages\\Nightmare_king_grimm.aspx",
               "ToolTip": "D:\\project\\project\\pages\\Nightmare_king_grimm.aspx",
               "RelativeToolTip": "project\\pages\\Nightmare_king_grimm.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-07T17:05:30.626Z"
+              "WhenOpened": "2025-06-07T17:05:30.626Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -456,9 +465,9 @@
               "RelativeDocumentMoniker": "project\\pages\\Grimm.aspx",
               "ToolTip": "D:\\project\\project\\pages\\Grimm.aspx",
               "RelativeToolTip": "project\\pages\\Grimm.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-07T17:01:43.139Z"
+              "WhenOpened": "2025-06-07T17:01:43.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -470,7 +479,8 @@
               "RelativeToolTip": "project\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-07T17:12:06.16Z"
+              "WhenOpened": "2025-06-07T17:12:06.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -482,7 +492,8 @@
               "RelativeToolTip": "project\\pages\\Broken_vessel.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T17:04:58.501Z"
+              "WhenOpened": "2025-06-07T17:04:58.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -494,7 +505,8 @@
               "RelativeToolTip": "project\\pages\\Brooding_mawlek.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T17:04:54.348Z"
+              "WhenOpened": "2025-06-07T17:04:54.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -506,7 +518,8 @@
               "RelativeToolTip": "project\\pages\\Dissconect.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T17:04:43.4Z"
+              "WhenOpened": "2025-06-07T17:04:43.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -518,7 +531,8 @@
               "RelativeToolTip": "project\\pages\\admin_page.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T11:01:04.39Z"
+              "WhenOpened": "2025-06-07T11:01:04.39Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -530,7 +544,8 @@
               "RelativeToolTip": "project\\pages\\False_knight.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T17:04:38.939Z"
+              "WhenOpened": "2025-06-07T17:04:38.939Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -542,7 +557,8 @@
               "RelativeToolTip": "project\\pages\\Grimm.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T17:04:32.002Z"
+              "WhenOpened": "2025-06-07T17:04:32.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -554,7 +570,8 @@
               "RelativeToolTip": "project\\pages\\Nightmare_king_grimm.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T17:04:22.763Z"
+              "WhenOpened": "2025-06-07T17:04:22.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -575,7 +592,8 @@
               "RelativeToolTip": "project\\pages\\RegisterandLogin.aspx.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T10:53:26.803Z"
+              "WhenOpened": "2025-06-07T10:53:26.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

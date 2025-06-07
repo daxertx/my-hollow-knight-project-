@@ -188,12 +188,12 @@ public static class Helper
             return "error please try again";
         }
     }
-    public static string register(string username, string password, string name, string family_name,int phone,string email,string birthday, string gender,string city,bool player)
+    public static string register(string username, string password, string name, string family_name,string phone,string email,string birthday, string gender,string city,bool player)
     {
-        string p = Convert.ToString(phone);
+
         //FINISHED
 
-        string SQLStr = $"INSERT INTO {tblName} (username,password,name,familyname,phone,email,birthday,gender,city,player) VALUES ('{username}','{password}','{name}','{family_name}','{p}','{email}','{birthday}','{gender}', '{city}','{player}');";
+        string SQLStr = $"INSERT INTO {tblName} (username,password,name,familyname,phone,email,birthday,gender,city,player) VALUES ('{username}','{password}','{name}','{family_name}','{phone}','{email}','{birthday}','{gender}', '{city}','{player}');";
         try
         {
             DataSet ds = RetrieveTable(SQLStr);

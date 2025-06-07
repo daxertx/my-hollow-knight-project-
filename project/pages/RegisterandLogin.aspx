@@ -289,7 +289,7 @@
                 divemail.style.color = "red";
                 divemail.innerHTML = "Email must contain '@' and '.'";
                 return false;
-            }
+            } 
 
             // Make sure '.' comes after '@'
             var atIndex = email.indexOf("@");
@@ -314,6 +314,13 @@
                 divphone.style.color = "red";
                 divphone.innerHTML = "Phone number must have exactly 10 digits";
                 return false;
+            }
+            else if (phone / 1000000000  ===0)
+            {
+                divphone.style.color = "red";
+                divphone.innerHTML = "Phone number must start with 0";
+                return false;
+
             }
             else {
                 divphone.style.color = "green";
