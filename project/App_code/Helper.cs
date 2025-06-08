@@ -207,11 +207,11 @@ public static class Helper
     }
     public static string print()
     {
-        string cmd = $"SELECT * FROM {tblName};";
+        string cmd = $"SELECT * FROM {tblName} ORDER BY (username);";
         DataSet ds = RetrieveTable(cmd);
         DataTable dt = ds.Tables[0];
         string table = BuildSimpleUsersTable(dt);
-        return table;
+        return table.Replace("00:00:00", "");
     }
 
 }

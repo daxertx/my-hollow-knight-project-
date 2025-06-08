@@ -3,7 +3,10 @@
     
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
+    <link href="../css/master.css" rel="stylesheet" />
     <link href="../css/Main_pages.css" rel="stylesheet" />
+
     <h2>dissconnect page</h2>
     <br>
     <form runat="server">

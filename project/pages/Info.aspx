@@ -4,7 +4,8 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <link href="../css/info.css" rel="stylesheet" />
-
+    <link href="../css/master.css" rel="stylesheet" />
+    
     <h2>Information about Hollow Knight</h2>
 
      <section class="banner">
@@ -71,10 +72,5 @@
          </section>
      </div>
  </div>
-
- <footer>
-     <div class="container">
-         <p>HOLLOW KNIGHT & SILKSONG are trademarks of Team Cherry. This fan page is for educational purposes only.</p>
-     </div>
- </footer>
+    
 </asp:Content>

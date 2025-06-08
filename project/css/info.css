@@ -1,9 +1,4 @@
-﻿* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
+﻿
 body {
     background: #050507;
     background-image: radial-gradient(circle at 10% 20%, rgba(138, 79, 255, 0.05) 0%, transparent 20%), radial-gradient(circle at 90% 80%, rgba(97, 218, 251, 0.05) 0%, transparent 20%);
@@ -54,41 +49,6 @@ header {
         text-shadow: 0 0 10px rgba(97, 218, 251, 0.3);
     }
 
-nav ul {
-    display: flex;
-    list-style: none;
-}
-
-nav li {
-    margin-left: 25px;
-}
-
-nav a.list {
-    color: #a0a0a0;
-    text-decoration: none;
-    font-weight: 500;
-    transition: color 0.3s;
-    position: relative;
-}
-
-    nav a:hover {
-        color: #61dafb;
-    }
-
-    nav a::after {
-        content: '';
-        position: absolute;
-        bottom: -5px;
-        left: 0;
-        width: 0;
-        height: 2px;
-        background: #61dafb;
-        transition: width 0.3s;
-    }
-
-    nav a:hover::after {
-        width: 100%;
-    }
 
 /* Banner styling */
 .banner {
@@ -222,31 +182,8 @@ strong {
 }
 
 /* List styling */
-ul {
-    list-style: none;
-    padding: 0;
-    margin-top: 20px;
-}
 
-li.list {
-    position: relative;
-    padding-left: 30px;
-    margin-bottom: 15px;
-    color: #a0a0a0;
-    transition: color 0.3s ease;
-}
 
-    li:hover {
-        color: #f0f0f0;
-    }
-
-    li::before {
-        content: '';
-        position: absolute;
-        left: 0;
-        color: #8a4fff;
-        font-size: 1.2rem;
-    }
 
 .development-container {
     display: flex;
@@ -307,14 +244,7 @@ footer {
         text-align: center;
     }
 
-    nav ul {
-        margin-top: 15px;
-        justify-content: center;
-    }
-
-    nav li {
-        margin: 0 10px;
-    }
+   
 }
 
 @media (max-width: 480px) {
@@ -335,35 +265,4 @@ footer {
         padding: 20px;
     }
 
-    nav li {
-        margin: 0 5px;
-    }
 }
-a.button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007BFF; /* Bootstrap blue */
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-    transition: background-color 0.3s ease;
-}
-
-    a.button:hover {
-        background-color: #0056b3;
-    }
-
-ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-}
-
-    ul li {
-        position: relative;
-        display: inline-block;
-    }

@@ -121,7 +121,7 @@ tr:nth-child(even):not(:first-child) {
 
 /* Hover Effect */
 tr:not(:first-child):hover {
-    background-color: rgba(0, 123, 255, 0.12);
+    background-color: rgba(0, 123, 255, 0.22);
     transition: background 0.3s ease;
 }
 

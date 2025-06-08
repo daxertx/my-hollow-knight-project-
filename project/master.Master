@@ -2,19 +2,21 @@
 
 <!DOCTYPE html>
 <link href="Main_pages.css" rel="stylesheet" />
-
+<link href="css/master.css" rel="stylesheet" />
 <html>
 <head runat="server">
     <title></title>
 
-        <div id="div1" runat="server"></div>
+        <div id="div1" runat="server" class="text"></div>
 
         <ul id="b" runat="server">
+            <img src="pictures_and_videos/overall_things/knight.png" class="emoji-knight" alt="Knight Emoji" />
             <li id="only_admin" runat="server"><a class="button" href="admin_page.aspx">Admin page</a></li>
             <li id="RegisterandLogin" runat="server"><a class="button" href="RegisterandLogin.aspx">Register/Login</a></li>
             <li id="dissconnect" runat="server"><a class="button" href="Dissconect.aspx">Dissconnect</a></li>
             <li id="menu" runat="server"><a class="button" href="Menu.aspx">Menu</a></li>
             <li id="info" runat="server"><a class="button" href="Info.aspx">Info</a></li>
+            <img src="pictures_and_videos/overall_things/knight.png" class="emoji-knight" alt="Knight Emoji" />
         </ul>
             <div>
                 <asp:ContentPlaceHolder ID="head" runat="server">

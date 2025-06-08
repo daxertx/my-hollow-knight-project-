@@ -1,6 +1,9 @@
 ﻿<%@ Page Title="Grimm" Language="C#" MasterPageFile="~/master.Master" AutoEventWireup="true" CodeBehind="Grimm.aspx.cs" Inherits="project.pages.boss_list.grimm" %>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
     <link href="../css/boss_list.css" rel="stylesheet" />
+    <link href="../css/master.css" rel="stylesheet" />
+
    <div style="background-color:red">
         <h>Boss name:Grimm</h>
        <br>

@@ -15,15 +15,6 @@ namespace project.pages
     {
 
         /// <summary>
-        /// div1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl div1;
-
-        /// <summary>
         /// boss_list control.
         /// </summary>
         /// <remarks>
@@ -31,5 +22,14 @@ namespace project.pages
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm boss_list;
+
+        /// <summary>
+        /// diverror control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl diverror;
     }
 }

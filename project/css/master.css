@@ -1,0 +1,136 @@
+﻿.emoji-knight {
+    /* Size */
+    width: 50px;
+    height: 50px;
+    /* Display */
+    display: inline-block;
+    vertical-align: middle;
+    object-fit: contain;
+    /* Error Handling */
+    position: relative;
+    font-size: 30px; /* Fallback text size */
+}
+a.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF; /* Bootstrap blue */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+    a.button:hover {
+        background-color: #0056b3;
+    }
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+    ul li {
+        position: relative;
+        display: inline-block;
+    }
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    margin-left: 25px;
+    height:30px;
+}
+
+a.list {
+    color: #a0a0a0;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+    position: relative;
+}
+
+a:hover {
+    color: #61dafb;
+}
+
+a::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #61dafb;
+    transition: width 0.3s;
+}
+
+a:hover::after {
+    width: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+
+}
+
+li.list {
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 15px;
+    color: #a0a0a0;
+    transition: color 0.3s ease;
+}
+
+ul {
+
+    justify-content: center;
+}
+
+li:hover {
+    color: #f0f0f0;
+}
+
+li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    color: #8a4fff;
+    font-size: 1.2rem;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div.text {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.7;
+}
+:root {
+    --primary-color: #673FD7;
+    --primary-dark: #5643CC;
+    --primary-light: #7a5af5;
+    --text-color: #f0f0f0;
+    --text-muted: #b0b0b0;
+    --bg-dark: #121212;
+    --bg-darker: #0a0a0a;
+    --bg-light: #1e1e1e;
+    --error-color: #ff4d4d;
+    --success-color: #4dff4d;
+    --border-radius: 8px;
+    --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    --transition: all 0.3s ease;
+}
+ul {
+    justify-content: center;
+}

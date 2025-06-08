@@ -1,0 +1,14 @@
+﻿cool png pictures: https://www.pngegg.com/en/search?q=hollow+Knight
+
+my tutorial: https://cpu.org.il/%D7%AA%D7%9B%D7%A0%D7%95%D7%AA-%D7%91%D7%A1%D7%91%D7%99%D7%91%D7%AA-%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%A0%D7%98/
+
+information prevoidor about the bosses: 
+https://hollowknight.wiki/w/Hollow_Knight_Wiki 
+https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki
+
+presenting:dan hertz
+class: י'1
+school: אחד העם
+
+basicly its a hollow knight boss tutorial with register and login page connected to a sql database in short
+hope you enjoy

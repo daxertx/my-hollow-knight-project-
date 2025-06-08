@@ -1,6 +1,8 @@
 ﻿<%@ Page Title="False knight" Language="C#" MasterPageFile="~/master.Master" AutoEventWireup="true" CodeBehind="False_knight.aspx.cs" Inherits="project.pages.boss_list.False_knight" %>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-   <link href="../css/boss_list.css" rel="stylesheet" />
+    <link href="../css/boss_list.css" rel="stylesheet" />
+    <link href="../css/master.css" rel="stylesheet" />
+
     <div style="background-color:steelblue">
         <h>Boss name:False knight</h>
         <br>

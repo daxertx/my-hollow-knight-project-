@@ -75,7 +75,10 @@
     <Content Include="css\Bug_report.css" />
     <Content Include="css\info.css" />
     <Content Include="css\Main_pages.css" />
+    <Content Include="css\master.css" />
+    <Content Include="css\menu.css" />
     <Content Include="Global.asax" />
+    <Content Include="hollow_knight.txt" />
     <Content Include="pages\admin_page.aspx" />
     <Content Include="pages\Broken_vessel.aspx" />
     <Content Include="pages\Brooding_mawlek.aspx" />
@@ -119,6 +122,7 @@
     <Content Include="pages\pictures_and_videos\Nightmare_king_grimm\Pufferfish.png" />
     <Content Include="pages\pictures_and_videos\overall_things\hallownest_map.png" />
     <Content Include="pages\pictures_and_videos\overall_things\Team_cherry.png" />
+    <Content Include="pages\pictures_and_videos\overall_things\knight.png" />
     <Content Include="pages\pictures_and_videos\sisters_of_battles\Mantis_Lords.png" />
     <Content Include="pages\pictures_and_videos\sisters_of_battles\Sisters_of_Battle.png" />
     <Content Include="pages\pictures_and_videos\sisters_of_battles\Sisters_of_Battle_shoot.png" />

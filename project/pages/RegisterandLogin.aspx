@@ -1,10 +1,12 @@
 ﻿<%@ Page Title="Register and Login" Language="C#" MasterPageFile="~/master.Master" AutoEventWireup="true" CodeBehind="RegisterandLogin.aspx.cs" Inherits="project.pages.RegisterandLogin" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <h1 style="font-size:60px;color:white" id="headder" runat="server" ClientIDMode="Static">Register page</h1>
+        <link href="../css/Main_pages.css" rel="stylesheet" />
+    <link href="../css/master.css" rel="stylesheet" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-    <link href="../css/Main_pages.css" rel="stylesheet" />
+
 
     <div style="font-size:40px">
         <div id="diverror" runat="server" style="color:red" ClientIDMode="Static"></div>
@@ -105,8 +107,8 @@
 
     <script>
         function movepagejs() {
-            PageMethods.Move_Page(onSuccess, onError);
-            clear()
+            PageMethods.Move_Page(onSuccess, onError); // runs c# function and activate js functions based on success or fail
+            clear();//cleans divs if you change page
         }
 
         function onSuccess(result) {
@@ -126,6 +128,7 @@
 
         function onError(error) {
             alert('Error: ' + error.get_message());
+            //prints error in 
         }
 
         function Form_valid() {
@@ -249,6 +252,12 @@
             var divname = document.getElementById("divname");
 
             // Only letters and spaces allowed
+            if (name.length < 4) {
+                divname.style.color = "red";
+                divname.innerHTML = "Name must have at least 4 characters";
+                return false;
+            }
+
             if (/[^a-zA-Z\s]/.test(name)) {
                 divname.style.color = "red";
                 divname.innerHTML = "Name can only contain letters";
@@ -265,6 +274,11 @@
             var divfamily = document.getElementById("divfamily");
 
             // Only letters and spaces allowed
+            if (family_name.length < 4) {
+                divfamily.style.color = "red";
+                divfamily.innerHTML = "Family name must have at least 4 characters";
+                return false;
+            }
             if (/[^a-zA-Z\s]/.test(family_name)) {
                 divfamily.style.color = "red";
                 divfamily.innerHTML = "Family name can only contain letters";

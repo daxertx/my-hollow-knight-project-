@@ -16,7 +16,7 @@ namespace project.pages
             Session["corrent_page"] = "Admin";
                 string table = Helper.print();
                 
-                tableinfo.InnerHtml = table.Replace("00:00:00","");
+                tableinfo.InnerHtml = table;
                 tableinfo.Style.Add("color", "red");
 
         }

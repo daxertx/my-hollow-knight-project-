@@ -1,6 +1,9 @@
 ﻿<%@ Page Title="Broken vessel" Language="C#" MasterPageFile="~/master.Master" AutoEventWireup="true" CodeBehind="Broken_vessel.aspx.cs" Inherits="project.pages.boss_list.Broken_vessel" %>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
+        <link href="../css/master.css" rel="stylesheet" />
         <link href="../css/boss_list.css" rel="stylesheet" />
+
     <div style="background-color:darkorange">
          <h>Boss name:Broken vessel</h>
         <br>

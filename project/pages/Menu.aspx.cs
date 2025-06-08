@@ -17,42 +17,51 @@ namespace project.pages
             if (IsPostBack) 
             {
                 string boss = Request.Form["boss"];
-                
-                switch(boss)
+                if (Session["rank"].ToString() != "0")
                 {
-                    case "Broken_vessel":
+                    switch (boss)
                     {
-                        Response.Redirect("Broken_vessel.aspx");
-                        break;
-                    }
+                        case "Broken_vessel":
+                            {
+                                Response.Redirect("Broken_vessel.aspx");
+                                break;
+                            }
 
-                    case "Grimm":
-                    {
-                        Response.Redirect("Grimm.aspx");
-                        break;
-                    }
-                    case "Nightmare king grimm":
-                        {
-                            Response.Redirect("Nightmare_king_grimm.aspx");
-                            break;
-                        }
-                    case "False knight":
-                        {
-                            Response.Redirect("False_knight.aspx");
-                            break;
-                        }
-                    case "Brooding mawlek":
-                        {
-                            Response.Redirect("Brooding_mawlek.aspx");
-                            break;
-                        }
-                    case "Sisters of battle":
-                        {
-                            Response.Redirect("Sisters_of_battles.aspx");
-                            break;
-                        }
+                        case "Grimm":
+                            {
+                                Response.Redirect("Grimm.aspx");
+                                break;
+                            }
+                        case "Nightmare king grimm":
+                            {
+                                Response.Redirect("Nightmare_king_grimm.aspx");
+                                break;
+                            }
+                        case "False knight":
+                            {
+                                Response.Redirect("False_knight.aspx");
+                                break;
+                            }
+                        case "Brooding mawlek":
+                            {
+                                Response.Redirect("Brooding_mawlek.aspx");
+                                break;
+                            }
+                        case "Sisters of battle":
+                            {
+                                Response.Redirect("Sisters_of_battles.aspx");
+                                break;
+                            }
 
+                    }
                 }
+                else
+                {
+                    diverror.Style.Add("color", "red");
+                    diverror.InnerHtml = "Please login first";
+                }
+
+                
             }
         }
     }

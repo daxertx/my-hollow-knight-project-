@@ -2,6 +2,8 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
     <link href="../css/boss_list.css" rel="stylesheet" />
+    <link href="../css/master.css" rel="stylesheet" />
+
     <div style="background-color:rgba(36,49,100,255)">
         <h>Boss name:Brooding mawlek</h>
         <br>
